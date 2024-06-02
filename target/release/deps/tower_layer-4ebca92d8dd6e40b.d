@@ -1,0 +1,11 @@
+C:\Users\mvroc\OneDrive\Documentos\Projetos\RUST\request_test\target\release\deps\libtower_layer-4ebca92d8dd6e40b.rmeta: C:\Users\mvroc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tower-layer-0.3.2\src\lib.rs C:\Users\mvroc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tower-layer-0.3.2\src\identity.rs C:\Users\mvroc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tower-layer-0.3.2\src\layer_fn.rs C:\Users\mvroc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tower-layer-0.3.2\src\stack.rs C:\Users\mvroc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tower-layer-0.3.2\src\tuple.rs
+
+C:\Users\mvroc\OneDrive\Documentos\Projetos\RUST\request_test\target\release\deps\libtower_layer-4ebca92d8dd6e40b.rlib: C:\Users\mvroc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tower-layer-0.3.2\src\lib.rs C:\Users\mvroc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tower-layer-0.3.2\src\identity.rs C:\Users\mvroc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tower-layer-0.3.2\src\layer_fn.rs C:\Users\mvroc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tower-layer-0.3.2\src\stack.rs C:\Users\mvroc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tower-layer-0.3.2\src\tuple.rs
+
+C:\Users\mvroc\OneDrive\Documentos\Projetos\RUST\request_test\target\release\deps\tower_layer-4ebca92d8dd6e40b.d: C:\Users\mvroc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tower-layer-0.3.2\src\lib.rs C:\Users\mvroc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tower-layer-0.3.2\src\identity.rs C:\Users\mvroc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tower-layer-0.3.2\src\layer_fn.rs C:\Users\mvroc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tower-layer-0.3.2\src\stack.rs C:\Users\mvroc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tower-layer-0.3.2\src\tuple.rs
+
+C:\Users\mvroc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tower-layer-0.3.2\src\lib.rs:
+C:\Users\mvroc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tower-layer-0.3.2\src\identity.rs:
+C:\Users\mvroc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tower-layer-0.3.2\src\layer_fn.rs:
+C:\Users\mvroc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tower-layer-0.3.2\src\stack.rs:
+C:\Users\mvroc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tower-layer-0.3.2\src\tuple.rs:
